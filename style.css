@@ -27,7 +27,7 @@
 	text-align: left;
 	border-radius: 5px; 
 	vertical-align: left;
-	display: flex;
+	display: block;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-left: 33%;
