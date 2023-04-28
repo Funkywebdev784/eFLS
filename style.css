@@ -56,7 +56,7 @@
 .a { color: white; }
 
 .row {
-	  display: flex;
+	  display: block;
 	  margin-left: 5px;
 	  margin-right: 5px; 
 	  column-gap: 20px;/* equal height of the children */
