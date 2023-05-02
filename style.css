@@ -55,15 +55,15 @@
 
 .a { color: white; }
 
-/*.row {
+.row {
 	  display: flex;
 	  margin-left: 5px;
 	  margin-right: 5px; 
-	  column-gap: 20px;/* equal height of the children */
-	}*/
+	  column-gap: 20px;
+	}
 
 .col {
-	  flex: 1; /* additionally, equal width */
+	  flex: 1; 
 	  
 	  padding: 1em;
 	  border: solid;
